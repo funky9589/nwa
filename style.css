@@ -10,9 +10,10 @@ color: white;
 .title1 b  {
     color: white;
     font-size: 25px;
+    
     }
 
 .login {
-    background-color: gray;
+    background-color: rgb(204, 204, 204);
 }
 
