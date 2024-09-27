@@ -1,0 +1,18 @@
+.title1 {
+    font-size: 30px;
+    background :url("images/tokyo.jpg")
+}
+
+.title1 a  {
+color: white;
+
+}
+.title1 b  {
+    color: white;
+    font-size: 25px;
+    }
+
+.login {
+    background-color: gray;
+}
+
